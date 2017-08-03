@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "As Good as it Gets"
+date:   2017-08-02 
+categories: misc
+---
+Great to be here. I have no idea what I'm doing, but it feels right.

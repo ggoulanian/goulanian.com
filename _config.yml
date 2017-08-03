@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Greg Goulanian
+tagline:          'My Web Space'
+description:      'A driven guy'
+url:              http://www.goulanian.com
+baseurl:          /
+
+author:
+  name:           'Greg Goulanian'
+  email:          ggoulanian@gmail.com
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
